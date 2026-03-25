@@ -78,7 +78,7 @@ snake-game/
 
 ## 🚀 Live Demo
 
-👉 https://YOUR_USERNAME.github.io/snake-game/
+👉 https://piyush01yadav08.github.io/snake-game/
 
 ---
 
@@ -108,7 +108,7 @@ Open snake.html in your browser
 **Piyush Yadav**
 
 * 📧 Email: [2432354.piyush@gmail.com](mailto:2432354.piyush@gmail.com)
-* 🌐 GitHub: https://github.com/YOUR_USERNAME
+* 🌐 GitHub: https://github.com/piyush01yadav08
 
 ---
 
