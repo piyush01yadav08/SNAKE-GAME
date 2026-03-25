@@ -72,7 +72,7 @@ snake-game/
 
 ## 📸 Screenshots
 
-> Add your gameplay screenshots here
+
 
 ---
 
