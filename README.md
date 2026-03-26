@@ -63,9 +63,9 @@ JavaScript (Game Logic)
 ```bash
 snake-game/
 │
-├── snake.html
-├── style.css
-└── script.js
+├── snake.html(in-built css,javascript logic)
+
+ 
 ```
 
 ---
